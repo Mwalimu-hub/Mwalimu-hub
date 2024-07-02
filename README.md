@@ -7,19 +7,21 @@ Hello. I'm Faith Ruth Kiende, (call me Mwalimu Kiende)an enthusiastic Swahili la
 
 **Immersive Swahili**- For advanced Swahili speakers intending to improve on complex grammatical structures, idiomatic expressions and proficiency in the language for fluient conversations.
 ## Mwalimu-hub/Mwalimu-hub Shall use the following teaching Methodology:
-My teaching pedagogies will include use of audio and video resources, interactive exercises to achieve a learner-oriented, interactive class. 
-I have planned my lessons to be engagging and practical by applying 
-Real life experiences for conversation practice
+- Use of audio and video resources
+- Interactive exercises to achieve a learner-oriented and interactive class.  
+- Engaging and practical activities
+- Real life experiences for conversation practice
+- Silent Way where I do less talk, to encourage self correction, and appreciate silence as a form of communication.
 
-**Mwalimu-hub/Mwalimu-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## How to reach me: 
  feel free to connect with me for more information or for a class scedule through my:
 - email: faithruthkiende@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/faith-ruth-kiende-67a004717b 
-- Website: https://github.com/Mwalimu-hub/Mwalimu-hub 
+- Website: https://github.com/Mwalimu-hub/Mwalimu-hub.git
 ## 😄 Pronouns: 
 She/ Her 
 ## ⚡Fun fact:
 - I grew up in a multilingual household where we spoke English, Swahili and Kimiru.
-- 
--->
+- I enjoy trying Swahili Recipes and my best is making Pilau.
+- I love dancing even though I know I am poor at it. 
+
