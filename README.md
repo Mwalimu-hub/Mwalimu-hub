@@ -16,7 +16,7 @@ Hello. I'm Faith Ruth Kiende, (call me Mwalimu Kiende)an enthusiastic Swahili la
 ## How to reach me: 
  feel free to connect with me for more information or for a class scedule through my:
 - email: faithruthkiende@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/faith-ruth-kiende-67a004717b 
+- LinkedIn: [https://www.linkedin.com/in/faith-ruth-kiende-67a004717b ](https://www.linkedin.com/in/faith-ruth-kiende-67a04717b/)
 - Website: https://github.com/Mwalimu-hub/Mwalimu-hub.git
 ## 😄 Pronouns: 
 She/ Her 
